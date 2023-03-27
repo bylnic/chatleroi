@@ -1,0 +1,2 @@
+# chatleroi
+site static
